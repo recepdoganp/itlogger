@@ -1,0 +1,58 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "fixed the problem with hardware malfunction 007",
+      "attention": true,
+      "tech": "Dogan Pezukoglu",
+      "date": "2020-02-14T21:23:10.682Z"
+    },
+    {
+      "message": "Wireless system breakdown 001",
+      "attention": false,
+      "tech": "Dogan Pezukoglu",
+      "date": "2020-02-14T21:22:47.025Z",
+      "id": 2
+    },
+    {
+      "message": "main system rundown",
+      "attention": false,
+      "tech": "Cem Pezukoglu",
+      "date": "2020-02-14T21:22:57.484Z",
+      "id": 3
+    },
+    {
+      "message": "001 mainsystem frame is broken",
+      "attention": true,
+      "tech": "Cem Pezukoglu",
+      "date": "2020-02-14T23:12:33.891Z",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "message": "new system main frame is down",
+      "attention": false,
+      "tech": "Melike Mirza",
+      "date": "2020-02-18T23:58:33.564Z"
+    },
+    {
+      "id": 6,
+      "message": "The monitor in workstation #3 is not functioning",
+      "attention": true,
+      "tech": "Melike Mirza",
+      "date": "2020-02-18T23:21:44.325Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Dogan",
+      "lastName": "Pezukoglu"
+    },
+    {
+      "id": 2,
+      "firstName": "Cem",
+      "lastName": "Pezukoglu"
+    }
+  ]
+}
